@@ -2,6 +2,12 @@
 
 TRÍCH XUẤT, THU THẬP VÀ PHÂN TÍCH LOG
 
+TUẦN 1 - 2 (12/07/2019 - 21/07/2019)
+
+20/07/2019:
+
+Bổ sung thêm parsing CSIC HTTP Dataset
+
 19/07/2019:
 
 Công việc hoàn thành:
